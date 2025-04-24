@@ -57,7 +57,7 @@ const HeroBgAnimation = () => (
         fill="#46737"
       >
         <animateMotion
-          dur="5s"
+          dur="10s"
           begin="1"
           repeatCount="indefinite"
           rotate="auto"
@@ -71,7 +71,7 @@ const HeroBgAnimation = () => (
         stroke="url(#paint7_linear)"
       >
         <animateMotion
-          dur="5s"
+          dur="10s"
           begin="1"
           repeatCount="indefinite"
           rotate="auto"
@@ -109,7 +109,7 @@ const HeroBgAnimation = () => (
         fill="#F46737"
       >
         <animateMotion
-          dur="10s"
+          dur="20s"
           begin="1"
           repeatCount="indefinite"
           rotate="auto"
@@ -123,7 +123,7 @@ const HeroBgAnimation = () => (
         stroke="url(#paint5_linear)"
       >
         <animateMotion
-          dur="10s"
+          dur="20s"
           begin="1"
           repeatCount="indefinite"
           rotate="auto"
@@ -140,7 +140,7 @@ const HeroBgAnimation = () => (
         fill="#F46737"
       >
         <animateMotion
-          dur="5s"
+          dur="10s"
           begin="0"
           repeatCount="indefinite"
           rotate="auto"
@@ -154,7 +154,7 @@ const HeroBgAnimation = () => (
         stroke="url(#paint6_linear)"
       >
         <animateMotion
-          dur="5s"
+          dur="36 0s"
           begin="0"
           repeatCount="indefinite"
           rotate="auto"
@@ -171,7 +171,7 @@ const HeroBgAnimation = () => (
         fill="#F46737"
       >
         <animateMotion
-          dur="10s"
+          dur="30s"
           begin="3"
           repeatCount="indefinite"
           rotate="auto"
@@ -185,7 +185,7 @@ const HeroBgAnimation = () => (
         stroke="url(#paint7_linear)"
       >
         <animateMotion
-          dur="10s"
+          dur="30s"
           begin="3"
           repeatCount="indefinite"
           rotate="auto"
@@ -202,7 +202,7 @@ const HeroBgAnimation = () => (
         fill="#13ADC7"
       >
         <animateMotion
-          dur="12s"
+          dur="30s"
           begin="4"
           repeatCount="indefinite"
           rotate="auto"
